@@ -18,7 +18,7 @@ To install this project, make sure you have Node.js installed. Then, clone the r
 
 ## Usage
 To use this application, run node index.js in the command line.
-
+[Demo Video](./video/README%20Generator.webm)
 
 ## License
 This project is licensed under the MIT license.  
